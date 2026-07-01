@@ -1,9 +1,14 @@
 header{
-    Backgroud-color: orange;
-    width: 100%
+    background-color: orange;
+    width: 100%;
+    padding: 30px;
+}
+header h1 {
+    color: white;
+    text-align: center;
 }
 
 header img {
     width: 200px;
-    heigth: 100px;
+    height: 100px;
 }
